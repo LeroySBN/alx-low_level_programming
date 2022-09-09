@@ -6,8 +6,8 @@
 
 ## Getting Started
 
-'$ cd path/to/your/dev/folder`
+'$ cd path/to/your/dev/folder/'
 
-`$ git clone https://github.com/leroysb/alx-low_level_programming`
+`$ git clone https://github.com/leroysb/alx-low_level_programming.git/`
 
-'$ cd alx-low_level_programming'
+'$ cd alx-low_level_programming/'
