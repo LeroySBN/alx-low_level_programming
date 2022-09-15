@@ -4,10 +4,14 @@
 
 **Operators, Expressions, Flow Control** - 0x01-variables_if_else_while
 
+**Functions, Nested Loops** - 0x02-functions_nested_loops
+
+**DEBUGGING** - 0x03-debugging
+
 ## Getting Started
 
-'$ cd path/to/your/dev/folder/'
+`$ cd path/to/your/dev/folder`
 
 `$ git clone https://github.com/leroysb/alx-low_level_programming.git/`
 
-'$ cd alx-low_level_programming/'
+`$ cd alx-low_level_programming`
