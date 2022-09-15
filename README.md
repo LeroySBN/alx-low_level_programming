@@ -8,6 +8,8 @@
 
 **DEBUGGING** - 0x03-debugging
 
+**MORE FUNCTIONS, MORE NESTED LOOPS** - 0x04-more_functions_nested_loops
+
 ## Getting Started
 
 `$ cd path/to/your/dev/folder`
