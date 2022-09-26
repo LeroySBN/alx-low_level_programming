@@ -6,6 +6,7 @@
  *
  * Return: Always 0.
  */
+char *_strpbrk(char *s, char *accept);
 int main(void)
 {
     char *s = "hello, world";

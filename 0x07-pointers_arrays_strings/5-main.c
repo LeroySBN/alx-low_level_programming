@@ -6,6 +6,7 @@
  *
  * Return: Always 0.
  */
+char *_strstr(char *haystack, char *needle);
 int main(void)
 {
     char *s = "hello, world";
