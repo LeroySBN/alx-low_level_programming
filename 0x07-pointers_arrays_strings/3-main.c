@@ -6,6 +6,7 @@
  *
  * Return: Always 0.
  */
+unsigned int _strspn(char *s, char *accept);
 int main(void)
 {
     char *s = "hello, world";
