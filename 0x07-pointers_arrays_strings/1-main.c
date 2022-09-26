@@ -29,6 +29,8 @@ void simple_print_buffer(char *buffer, unsigned int size)
     printf("\n");
 }
 
+char *_memcpy(char *dest, char *src, unsigned int n);
+
 /**
  * main - check the code
  *
