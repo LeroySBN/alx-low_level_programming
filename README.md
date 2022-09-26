@@ -1,20 +1,20 @@
 ## C (programming language)
 
-**Types, Variables, Functions** - 0x00-hello_world
+**Types, Variables, Functions** >> 0x00-hello_world
 
-**Operators, Expressions, Flow Control** - 0x01-variables_if_else_while
+**Operators, Expressions, Flow Control** >> 0x01-variables_if_else_while
 
-**Functions, Nested Loops** - 0x02-functions_nested_loops
+**Functions, Nested Loops** >> 0x02-functions_nested_loops
 
-**DEBUGGING** - 0x03-debugging
+**DEBUGGING** >> 0x03-debugging
 
-**MORE FUNCTIONS, MORE NESTED LOOPS** - 0x04-more_functions_nested_loops
+**MORE FUNCTIONS, MORE NESTED LOOPS** >> 0x04-more_functions_nested_loops
 
-**POINTERS, ARRAYS, AND STRINGS** - 0x05-pointers_arrays_strings
+**POINTERS, ARRAYS, AND STRINGS** >> 0x05-pointers_arrays_strings
 
-**MORE POINTERS, ARRAYS AND STRINGS** - 0x06-pointers_arrays_strings
+**MORE POINTERS, ARRAYS AND STRINGS** >> 0x06-pointers_arrays_strings
 
-**POINTER TO POINTER, AND DIMENTIONAL ARRAYS** - 0x07-pointers_arrays_strings
+**POINTER TO POINTER, AND DIMENTIONAL ARRAYS** >> 0x07-pointers_arrays_strings
 
 
 ## Getting Started
@@ -31,3 +31,4 @@
 All files to be compiled on Ubuntu 20.04 LTS using gcc tags
 
 `gcc -Wall -Werror -Wextra -pedantic -std=gnu89`
+
