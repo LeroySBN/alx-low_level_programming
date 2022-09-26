@@ -10,6 +10,13 @@
 
 **MORE FUNCTIONS, MORE NESTED LOOPS** - 0x04-more_functions_nested_loops
 
+**POINTERS, ARRAYS, AND STRINGS** - 0x05-pointers_arrays_strings
+
+**MORE POINTERS, ARRAYS AND STRINGS** - 0x06-pointers_arrays_strings
+
+**POINTER TO POINTER, AND DIMENTIONAL ARRAYS** - 0x07-pointers_arrays_strings
+
+
 ## Getting Started
 
 `$ cd path/to/your/dev/folder`
@@ -17,3 +24,10 @@
 `$ git clone https://github.com/leroysb/alx-low_level_programming.git/`
 
 `$ cd alx-low_level_programming`
+
+
+## Compiling Syntax
+
+All files to be compiled on Ubuntu 20.04 LTS using gcc tags
+
+`gcc -Wall -Werror -Wextra -pedantic -std=gnu89`
