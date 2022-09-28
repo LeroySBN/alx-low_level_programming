@@ -6,12 +6,14 @@
 */
 int main(void)
 {
-char lalpha = 'z';
-while (lalpha >= 'a')
-{
-putchar(lalpha);
-lalpha--;
-}
-putchar('\n');
-return (0);
+	char lalpha = 'z';
+
+	while (lalpha >= 'a')
+	{
+		putchar(lalpha);
+		lalpha--;
+	}
+
+	putchar('\n');
+	return (0);
 }
