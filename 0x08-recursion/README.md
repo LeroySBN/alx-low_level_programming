@@ -16,4 +16,4 @@
 
 ## Resouces
 
-(What on Earth is Recursion?) [https://www.youtube.com/watch?v=Mv9NEXX1VHc]
+[What on Earth is Recursion?](https://www.youtube.com/watch?v=Mv9NEXX1VHc)
