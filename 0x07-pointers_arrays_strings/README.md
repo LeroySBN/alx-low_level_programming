@@ -17,11 +17,11 @@
 
 ## Resouces
 
-Pointer to pointer [https://www.tutorialspoint.com/cprogramming/c_pointer_to_pointer.htm]
+[Pointer to pointer](https://www.tutorialspoint.com/cprogramming/c_pointer_to_pointer.htm)
 
-Pointer to pointer with examples [https://alx-intranet.hbtn.io/rltoken/ojr7OUUm2I-MULE4lWlrkg]
+[Pointer to pointer with examples](https://alx-intranet.hbtn.io/rltoken/ojr7OUUm2I-MULE4lWlrkg)
 
-Multi-dimentional arrays [https://alx-intranet.hbtn.io/rltoken/HUZIJ6t55KM7d7FBCwWm8Q]
+[Multi-dimentional arrays](https://alx-intranet.hbtn.io/rltoken/HUZIJ6t55KM7d7FBCwWm8Q)
 
-Two dimentional arrays in C programming with examples [https://alx-intranet.hbtn.io/rltoken/Dx9nIBRj68sRBGe2NRI_aQ]
+[Two dimentional arrays in C programming with examples](https://alx-intranet.hbtn.io/rltoken/Dx9nIBRj68sRBGe2NRI_aQ)
 
