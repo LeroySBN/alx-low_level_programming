@@ -6,7 +6,6 @@
  *
  * Return: 1 if n is prime, 0 if not
  */
-int _prime(int n, int i);
 int is_prime_number(int n)
 {
 	if (n <= 1)
