@@ -18,7 +18,9 @@
 
 **RECURSION** >> 0x08-recursion
 
-**argc and argv** >> 0x0A-argc_argv
+**ARGC AND ARGV** >> 0x0A-argc_argv
+
+**STATIC LIBRARIES** >> 0x09-static_libraries
 
 
 ## Getting Started
