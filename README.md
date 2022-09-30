@@ -18,6 +18,8 @@
 
 **RECURSION** >> 0x08-recursion
 
+**argc and argv** >> 0x0A-argc_argv
+
 
 ## Getting Started
 
