@@ -10,6 +10,8 @@
 
 4-add.c >> program that adds positive numbers.
 
+100-change.c >>  program that prints the minimum number of coins to make change for an amount of money.
+
 ## Resouces
 
 [Arguments to main](https://publications.gbdirect.co.uk//c_book/chapter10/arguments_to_main.html)
