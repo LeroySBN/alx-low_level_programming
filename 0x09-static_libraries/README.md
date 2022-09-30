@@ -22,4 +22,4 @@ create_static_lib.sh >> script that creates a static library
 
 `gcc -Wall -pedantic -Werror -Wextra -std=gnu89 -c *.c`
 
-`ar -rc libschool.a *.o`
+`ar -rc xyz.a *.o`
