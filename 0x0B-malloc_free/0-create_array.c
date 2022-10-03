@@ -1,4 +1,5 @@
 #include "main.h"
+#include <stdio.h>
 #include <stdlib.h>
 
 /**
@@ -7,7 +8,7 @@
  * @size: size of array
  * @c: char to be initialized
  *
- * Return: pointer to the arra or NULL if it fails
+ * Return: pointer to the array or NULL if it fails
  */
 char *create_array(unsigned int size, char c)
 {
@@ -29,5 +30,6 @@ char *create_array(unsigned int size, char c)
 	}
 	*(s + 1) = '\0';
 	return (s);
+	fprintf(stderr," ");	
 }
 
