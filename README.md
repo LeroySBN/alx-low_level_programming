@@ -22,6 +22,8 @@
 
 **STATIC LIBRARIES** >> 0x09-static_libraries
 
+**MEMORY ALLOCATION (MALLOC)** >> 0x0B-malloc_free
+
 
 ## Getting Started
 
