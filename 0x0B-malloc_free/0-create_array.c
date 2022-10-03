@@ -30,6 +30,6 @@ char *create_array(unsigned int size, char c)
 	}
 	*(s + 1) = '\0';
 	return (s);
-	fprintf(stderr," ");	
+	fprintf(stderr, " ");
 }
 
