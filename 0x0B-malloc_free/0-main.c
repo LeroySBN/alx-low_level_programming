@@ -40,8 +40,8 @@ int main(void)
     char *buffer;
 	unsigned int size;
 
-	size = 102;
-    buffer = create_array(size, 10);
+	size = 96;
+    buffer = create_array(size, '\0');
     if  (buffer == NULL)
     {
         printf("failed to allocate memory\n");
