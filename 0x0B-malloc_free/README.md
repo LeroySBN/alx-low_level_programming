@@ -20,5 +20,5 @@
 
 `man malloc`
 
-`man free`d
+`man free`
 
