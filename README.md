@@ -24,6 +24,8 @@
 
 **MEMORY ALLOCATION (MALLOC)** >> 0x0B-malloc_free
 
+**MORE MALLOC, FREE** >> 0x0C-more_malloc_free
+
 
 ## Getting Started
 
