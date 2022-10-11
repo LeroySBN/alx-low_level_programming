@@ -12,7 +12,7 @@ dog.h >> Define a new type dog_t as a new name for the type struct dog.
 
 ## Resouces
 
-### Read or Watch
+#### Read or Watch
 
 [Structures pdf](https://alx-intranet.hbtn.io/rltoken/giS4eNQT2BQ9RLK0PMhgJQ)
 
@@ -28,3 +28,6 @@ dog.h >> Define a new type dog_t as a new name for the type struct dog.
 
 Programming in C by Stephen Kochan - Chapter 8, Working with Structures p163-189
 
+## Note
+
+The main.c files are used to test the functions at compilation
