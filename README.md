@@ -22,6 +22,8 @@
 
 **Static libraries** >> 0x09-static_libraries
 
+**Variadic functions** >> 0x10-variadic_functions
+
 **Memory allocation (MALLOC)** >> 0x0B-malloc_free
 
 **More malloc, free** >> 0x0C-more_malloc_free
@@ -30,7 +32,7 @@
 
 **Structures, typedef** >> 0x0E-structures_typedef
 
-** Function pointers** >> 0x0F-function_pointers
+**Function pointers** >> 0x0F-function_pointers
 
 ## Getting Started
 
