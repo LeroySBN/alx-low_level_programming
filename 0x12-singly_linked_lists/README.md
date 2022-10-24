@@ -28,6 +28,10 @@ How to select the appropriate data structure:
 
 4-main.c, 4-free_list.c >> function that frees a list_t list.
 
+100-first.c >> function that prints You're beat! and yet, you must allow,\nI bore my house upon my back!\n before the main function is executed.
+
+101-hello_holberton.asm >>  a 64-bit program in assembly that prints Hello, Holberton, followed by a new line.
+
 ## Resouces
 
 #### Read or Watch
