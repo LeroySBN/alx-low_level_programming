@@ -34,10 +34,11 @@ list_t *add_node(list_t **head, const char *str)
 	data = malloc(sizeof(char) * (len + 1));
 	if (data == NULL)
 		return (NULL);
-	for (i =0; str[i]; i++)
+	for (i = 0; str[i]; i++)
 		data[i] = str[i];
 	new = malloc(sizeof(list_t));
-	if (new == NULL){
+	if (new == NULL)
+	{
 		free(data);
 		return (NULL);
 	}
@@ -47,4 +48,4 @@ list_t *add_node(list_t **head, const char *str)
 	*head = new;
 	return (new);
 }
-	
+
