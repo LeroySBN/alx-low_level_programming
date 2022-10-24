@@ -24,6 +24,10 @@
 
 **Variadic functions** >> 0x10-variadic_functions
 
+**printf** >> 0x11-printf
+
+**Singly linked lists** >> 0x12-singly_linked_lists
+
 **Memory allocation (MALLOC)** >> 0x0B-malloc_free
 
 **More malloc, free** >> 0x0C-more_malloc_free
