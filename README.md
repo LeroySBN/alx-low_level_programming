@@ -28,6 +28,8 @@
 
 **Singly linked lists** >> 0x12-singly_linked_lists
 
+**More singly linked lists** >> 0x13-more_singly_linked_lists
+
 **Memory allocation (MALLOC)** >> 0x0B-malloc_free
 
 **More malloc, free** >> 0x0C-more_malloc_free
