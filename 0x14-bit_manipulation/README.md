@@ -28,7 +28,7 @@
 
 gcc -Wall -pedantic -Werror -Wextra -std=gnu89 100-main.c 100-get_endianness.c -o h`
 
-101-password >> Find the password for [this program](https://github.com/holbertonschool/0x13.c)
+101-password >> Find the password for [this program](./crackme3)
 
 ## Resouces
 
