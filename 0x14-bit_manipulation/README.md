@@ -24,6 +24,12 @@
 
 `gcc -Wall -pedantic -Werror -Wextra -std=gnu89 5-main.c 5-flip_bits.c -o f`
 
+100-main.c, 100-get_endianness.c >> function that checks the endianness.
+
+gcc -Wall -pedantic -Werror -Wextra -std=gnu89 100-main.c 100-get_endianness.c -o h`
+
+101-password >> Find the password for [this program](https://github.com/holbertonschool/0x13.c)
+
 ## Resouces
 
 #### Read or Watch
