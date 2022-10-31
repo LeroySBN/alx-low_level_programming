@@ -24,8 +24,6 @@
 
 **Variadic functions** >> 0x10-variadic_functions
 
-**printf** >> 0x11-printf
-
 **Singly linked lists** >> 0x12-singly_linked_lists
 
 **More singly linked lists** >> 0x13-more_singly_linked_lists
