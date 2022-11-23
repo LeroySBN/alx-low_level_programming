@@ -1,65 +1,56 @@
-## C (programming language)
+# C (programming language)
 
-**Types, Variables, Functions** >> [0x00-hello_world](./0x00-hello_world)
+## Getting started
 
-**Operators, Expressions, Flow Control** >> 0x01-variables_if_else_while
+Types, Variables, Functions >> [0x00-hello_world](./0x00-hello_world)
 
-**Functions, Nested Loops** >> 0x02-functions_nested_loops
+Operators, Expressions, Flow Control >> [0x01-variables_if_else_while](./0x01-variables_if_else_while)
 
-**Debugging** >> 0x03-debugging
+Functions, Nested Loops >> [0x02-functions_nested_loops](./0x02-functions_nested_loops)
 
-**More functions, more nested loops** >> 0x04-more_functions_nested_loops
+Debugging >> [0x03-debugging](./0x03-debugging)
 
-**Pointers, arrays and strings** >> 0x05-pointers_arrays_strings
+More functions, more nested loops >> [0x04-more_functions_nested_loops](./0x04-more_functions_nested_loops)
 
-**More pointers, arrays and strings** >> 0x06-pointers_arrays_strings
+Pointers, arrays and strings >> [0x05-pointers_arrays_strings](./0x05-pointers_arrays_strings)
 
-**Pointer to pointer, and dimentional arrays** >> 0x07-pointers_arrays_strings
+More pointers, arrays and strings >> [0x06-pointers_arrays_strings](./0x06-pointers_arrays_strings)
 
-**Recursion** >> 0x08-recursion
+Pointer to pointer, and dimentional arrays >> [0x07-pointers_arrays_strings](./0x07-pointers_arrays_strings)
 
-**argc and argv** >> 0x0A-argc_argv
+Recursion >> [0x08-recursion](./0x08-recursion)
 
-**Static libraries** >> 0x09-static_libraries
+argc and argv >> [0x0A-argc_argv](./0x0A-argc_argv)
 
-**Memory allocation (MALLOC)** >> 0x0B-malloc_free
+Static libraries >> [0x09-static_libraries](./0x09-static_libraries)
 
-**More malloc, free** >> 0x0C-more_malloc_free
+Memory allocation (MALLOC) >> [0x0B-malloc_free](./0x0B-malloc_free)
 
-**Preprocessor** >> 0x0D-preprocessor
+More malloc, free >> [0x0C-more_malloc_free](./0x0C-more_malloc_free)
 
-**Structures, typedef** >> 0x0E-structures_typedef
+Preprocessor >> [0x0D-preprocessor](./0x0D-preprocessor)
 
-**Function pointers** >> 0x0F-function_pointers
+Structures, typedef >> [0x0E-structures_typedef](./0x0E-structures_typedef)
 
-**Variadic functions** >> 0x10-variadic_functions
+Function pointers >> [0x0F-function_pointers](./0x0F-function_pointers)
 
-[**printf project**](https://github.com/leroysb/printf)
+Variadic functions >> [0x10-variadic_functions](./0x10-variadic_functions)
 
-**Bit manipulation** >> 0x14-bit_manipulation
+[printf project](https://github.com/leroysb/printf)
 
-### Data Structures and Algorithms
+Bit manipulation >> [0x14-bit_manipulation](./0x14-bit_manipulation)
 
-**Singly linked lists** >> 0x12-singly_linked_lists
+## Data Structures and Algorithms
 
-**More singly linked lists** >> 0x13-more_singly_linked_lists
+Singly linked lists >> [0x12-singly_linked_lists](./0x12-singly_linked_lists)
 
-### Linux and Unix system programming
+More singly linked lists >> [0x13-more_singly_linked_lists](./0x13-more_singly_linked_lists)
 
-**File I/O** >> 0x15-file_io
+## Linux and Unix system programming
+
+File I/O >> [0x15-file_io](./0x15-file_io)
 
 [**Simple Shell project**](https://github.com/leroysb/simple_shell)
-
-###
-
-## Getting Started
-
-`$ cd path/to/your/dev/folder`
-
-`$ git clone https://github.com/leroysb/alx-low_level_programming.git/`
-
-`$ cd alx-low_level_programming`
-
 
 ## Compiling Syntax
 
