@@ -58,3 +58,9 @@ All files to be compiled on Ubuntu 20.04 LTS using gcc tags
 
 `gcc -Wall -Werror -Wextra -pedantic -std=gnu89`
 
+## Resources
+
+C Programming Languange (ANSI C 2nd Edition) by Brian Kernighan & Dennis Ritchie
+
+Programming in C (4th Edition) by Stephen Kochan
+
