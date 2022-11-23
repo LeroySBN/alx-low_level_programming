@@ -64,3 +64,17 @@ C Programming Languange (ANSI C 2nd Edition) by Brian Kernighan & Dennis Ritchie
 
 Programming in C (4th Edition) by Stephen Kochan
 
+## More Info
+
+### Betty linter
+
+1. Go to the [Betty](https://github.com/holbertonschool/Betty) repo and clone to your local machine
+
+2. `cd` into the Betty directory
+
+3. Install the linter with `sudo ./install.sh`
+
+4. Move the [betty](./betty) file into `/bin` directory or somewhere else in your `$PATH` with `sudo mv betty /bin/`
+
+You can now type `betty <filename>` to run the Betty linter.
+
