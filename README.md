@@ -1,6 +1,6 @@
 ## C (programming language)
 
-**Types, Variables, Functions** >> 0x00-hello_world
+**Types, Variables, Functions** >> [0x00-hello_world](./0x00-hello_world)
 
 **Operators, Expressions, Flow Control** >> 0x01-variables_if_else_while
 
@@ -22,14 +22,6 @@
 
 **Static libraries** >> 0x09-static_libraries
 
-**Variadic functions** >> 0x10-variadic_functions
-
-**Singly linked lists** >> 0x12-singly_linked_lists
-
-**More singly linked lists** >> 0x13-more_singly_linked_lists
-
-**Bit manipulation** >> 0x14-bit_manipulation
-
 **Memory allocation (MALLOC)** >> 0x0B-malloc_free
 
 **More malloc, free** >> 0x0C-more_malloc_free
@@ -39,6 +31,26 @@
 **Structures, typedef** >> 0x0E-structures_typedef
 
 **Function pointers** >> 0x0F-function_pointers
+
+**Variadic functions** >> 0x10-variadic_functions
+
+[**printf project**](https://github.com/leroysb/printf)
+
+**Bit manipulation** >> 0x14-bit_manipulation
+
+### Data Structures and Algorithms
+
+**Singly linked lists** >> 0x12-singly_linked_lists
+
+**More singly linked lists** >> 0x13-more_singly_linked_lists
+
+### Linux and Unix system programming
+
+**File I/O** >> 0x15-file_io
+
+[**Simple Shell project**](https://github.com/leroysb/simple_shell)
+
+###
 
 ## Getting Started
 
