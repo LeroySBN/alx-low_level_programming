@@ -71,7 +71,7 @@ A function that deletes the node at index index of a `dlistint_t` linked list.
 **File**: [8-delete_dnodeint.c](./8-delete_dnodeint.c)
 
 ## 9. Crackme4
-Find the password for [crackme4](./crackme4).
+Find the password for [crackme4](https://github.com/holbertonschool/0x17.c).
 * Save the password in the file `100-password`
 * Your file should contain the exact password, no new line, no extra space
 * Hint: The program prints “OK” when the password is correct
@@ -88,7 +88,7 @@ Find the largest palindrome made from the product of two 3-digit numbers.
 **File**: [102-result](./102-result)
 
 ## 11. crackme5
-Write a keygen for [crackme5](./crackme5).
+Write a keygen for [crackme5](https://github.com/holbertonschool/0x17.c).
 * Usage of the crackme: `./crackme5 username key`
 * The crackme will segfault if you do not enter the correct key for the user
 * Usage for your keygen: `./keygen5 username`
