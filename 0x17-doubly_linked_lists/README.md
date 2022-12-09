@@ -55,6 +55,7 @@ A function that inserts a new node at a given position.
 * where `idx` is the index of the list where the new node should be added. Index starts at `0`
 * Returns: the address of the new node, or `NULL` if it failed
 * if it is not possible to add the new node at index `idx`, do not add the new node and return `NULL`
+
 The files `2-add_dnodeint.c` and `3-add_dnodeint_end.c` will be compiled together
 
 `$ gcc -Wall -pedantic -Werror -Wextra -std=gnu89 7-main.c 2-add_dnodeint.c 3-add_dnodeint_end.c 0-print_dlistint.c 4-free_dlistint.c 7-insert_dnodeint.c -o j`
@@ -70,7 +71,7 @@ A function that deletes the node at index index of a `dlistint_t` linked list.
 **File**: [8-delete_dnodeint.c](./8-delete_dnodeint.c)
 
 ## 9. Crackme4
-Find the password for `crackme4`.
+Find the password for [crackme4](./crackme4).
 * Save the password in the file `100-password`
 * Your file should contain the exact password, no new line, no extra space
 * Hint: The program prints “OK” when the password is correct
@@ -87,7 +88,7 @@ Find the largest palindrome made from the product of two 3-digit numbers.
 **File**: [102-result](./102-result)
 
 ## 11. crackme5
-Write a keygen for `crackme5`.
+Write a keygen for [crackme5](./crackme5).
 * Usage of the crackme: `./crackme5 username key`
 * The crackme will segfault if you do not enter the correct key for the user
 * Usage for your keygen: `./keygen5 username`
