@@ -32,17 +32,15 @@
 * [**printf project**](https://github.com/leroysb/printf)
 * [**Simple Shell project**](https://github.com/leroysb/simple_shell)
 
-## Compiling Syntax
+## More Info
 
-All files to be compiled on Ubuntu 20.04 LTS using gcc tags
-
-`gcc -Wall -Werror -Wextra -pedantic -std=gnu89`
-
-## Resources
+### Resources
 1. C Programming Languange (ANSI C 2nd Edition) by Brian Kernighan & Dennis Ritchie
 2. Programming in C (4th Edition) by Stephen Kochan
 
-## More Info
+### Compiling Syntax
+All files to be compiled on Ubuntu 20.04 LTS using gcc tags
+`gcc -Wall -Werror -Wextra -pedantic -std=gnu89`
 
 ### Betty linter installation guide
 1. Go to the [Betty](https://github.com/holbertonschool/Betty) repo and clone to your local machine
