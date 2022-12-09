@@ -31,12 +31,11 @@
 ## Linux and Unix system programming
 
 * File I/O >> [0x15-file_io](./0x15-file_io)
-
 * [**Simple Shell project**](https://github.com/leroysb/simple_shell)
 
 ## Compiling Syntax
 
-* All files to be compiled on Ubuntu 20.04 LTS using gcc tags
+All files to be compiled on Ubuntu 20.04 LTS using gcc tags
 
 `gcc -Wall -Werror -Wextra -pedantic -std=gnu89`
 
@@ -48,7 +47,7 @@
 
 ## More Info
 
-### Betty linter
+### Betty linter installation guide
 
 1. Go to the [Betty](https://github.com/holbertonschool/Betty) repo and clone to your local machine
 
@@ -58,5 +57,5 @@
 
 4. Move the [betty](./betty) file into `/bin` directory or somewhere else in your `$PATH` with `sudo mv betty /bin/`
 
-You can now type `betty <filename>` to run the Betty linter.
+You can now type `betty <filename>.c` to run the Betty linter.
 
