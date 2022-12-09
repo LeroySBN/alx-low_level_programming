@@ -18,7 +18,6 @@
 * Structures, typedef >> [0x0E-structures_typedef](./0x0E-structures_typedef)
 * Function pointers >> [0x0F-function_pointers](./0x0F-function_pointers)
 * Variadic functions >> [0x10-variadic_functions](./0x10-variadic_functions)
-* [**printf project**](https://github.com/leroysb/printf)
 * Bit manipulation >> [0x14-bit_manipulation](./0x14-bit_manipulation)
 
 ## Data Structures and Algorithms
@@ -28,6 +27,9 @@
 
 ## Linux and Unix system programming
 * File I/O >> [0x15-file_io](./0x15-file_io)
+
+## Projects
+* [**printf project**](https://github.com/leroysb/printf)
 * [**Simple Shell project**](https://github.com/leroysb/simple_shell)
 
 ## Compiling Syntax
