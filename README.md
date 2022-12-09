@@ -1,7 +1,6 @@
 # C (programming language)
 
-## Getting started
-
+## Basics
 * Types, Variables, Functions >> [0x00-hello_world](./0x00-hello_world)
 * Operators, Expressions, Flow Control >> [0x01-variables_if_else_while](./0x01-variables_if_else_while)
 * Functions, Nested Loops >> [0x02-functions_nested_loops](./0x02-functions_nested_loops)
@@ -23,13 +22,11 @@
 * Bit manipulation >> [0x14-bit_manipulation](./0x14-bit_manipulation)
 
 ## Data Structures and Algorithms
-
 * Singly linked lists >> [0x12-singly_linked_lists](./0x12-singly_linked_lists)
 * More singly linked lists >> [0x13-more_singly_linked_lists](./0x13-more_singly_linked_lists)
 * Doubly linked lists >> [0x17-doubly_linked_lists](./0x17-doubly_linked_lists)
 
 ## Linux and Unix system programming
-
 * File I/O >> [0x15-file_io](./0x15-file_io)
 * [**Simple Shell project**](https://github.com/leroysb/simple_shell)
 
@@ -40,21 +37,15 @@ All files to be compiled on Ubuntu 20.04 LTS using gcc tags
 `gcc -Wall -Werror -Wextra -pedantic -std=gnu89`
 
 ## Resources
-
 1. C Programming Languange (ANSI C 2nd Edition) by Brian Kernighan & Dennis Ritchie
-
 2. Programming in C (4th Edition) by Stephen Kochan
 
 ## More Info
 
 ### Betty linter installation guide
-
 1. Go to the [Betty](https://github.com/holbertonschool/Betty) repo and clone to your local machine
-
 2. `cd` into the Betty directory
-
 3. Install the linter with `sudo ./install.sh`
-
 4. Move the [betty](./betty) file into `/bin` directory or somewhere else in your `$PATH` with `sudo mv betty /bin/`
 
 You can now type `betty <filename>.c` to run the Betty linter.
