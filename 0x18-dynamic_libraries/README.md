@@ -8,7 +8,8 @@
 ### 0. A library is not a luxury but one of the necessities of life
 Create the dynamic library libdynamic.so containing all the functions listed below:
 
-`int _putchar(char c);
+```
+int _putchar(char c);
 
 int _islower(int c);
 
@@ -47,7 +48,8 @@ unsigned int _strspn(char *s, char *accept);
 
 char *_strpbrk(char *s, char *accept);
 
-char *_strstr(char *haystack, char *needle);`
+char *_strstr(char *haystack, char *needle);
+```
 
 **File**: [libdynamic.so](./libdynamic.so), [main.h](./main.h)
 
