@@ -19,6 +19,7 @@
 * Function pointers >> [0x0F-function_pointers](./0x0F-function_pointers)
 * Variadic functions >> [0x10-variadic_functions](./0x10-variadic_functions)
 * Bit manipulation >> [0x14-bit_manipulation](./0x14-bit_manipulation)
+* Dynamic libraries >> [0x18-dynamic_libraries](./0x18-dynamic_libraries)
 
 ## Data Structures and Algorithms
 * Singly linked lists >> [0x12-singly_linked_lists](./0x12-singly_linked_lists)
