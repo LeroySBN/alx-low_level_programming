@@ -81,7 +81,7 @@ I bought a ticket for the Giga Millions and chose these numbers: 9, 8, 10, 24, 7
 ```
 
 
-* You can’t modify the program `gm` itself as Master Sysadmin Sylvain (MSS) always checks its MD5 before running it
+* You can’t modify the program `gm` itself as Master Sysadmin Sylvain (MSS) always checks its [MD5](https://github.com/holbertonschool/0x18.c/blob/master/101-md5_gm) before running it
 * The system is an `Linux Ubuntu 16.04`
 * The server has internet access
 * Our mole will be only able to run two commands from a shell script, without being detected by MSS
