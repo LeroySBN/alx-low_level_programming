@@ -53,6 +53,6 @@ char *_strstr(char *haystack, char *needle);
 **File**: [libdynamic.so](./libdynamic.so), [main.h](./main.h)
 
 ### 1. Without libraries what have we? We have no past and no future
-Create a script that creates a dynamic library called `liball.so` from all the `.c` files that are in the current directory.
+A script that creates a dynamic library called `liball.so` from all the `.c` files that are in the current directory.
 
 **File**: [1-create_dynamic_lib.sh](./1-create_dynamic_lib.sh)
