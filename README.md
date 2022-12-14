@@ -31,7 +31,8 @@
 
 ## Projects
 * [**printf project**](https://github.com/leroysb/printf)
-* [**Simple Shell project**](https://github.com/leroysb/simple_shell)
+* [**Create a simple shell project**](https://github.com/leroysb/simple_shell)
+* [**Monty project (Stacks, Queues - LIFO, FIFO)**](https://github.com/leroysb/monty)
 
 ## More Info
 
