@@ -21,7 +21,7 @@
 * Structures, typedef >> [0x0E-structures_typedef](./0x0E-structures_typedef)
 * Function pointers >> [0x0F-function_pointers](./0x0F-function_pointers)
 * Variadic functions >> [0x10-variadic_functions](./0x10-variadic_functions)
-* Project: [printf](https://github.com/leroysb/printf)
+* Project: [printf](https://github.com/leroysb/printf){:target="_blank"}
 * Bit manipulation >> [0x14-bit_manipulation](./0x14-bit_manipulation)
 * Dynamic libraries >> [0x18-dynamic_libraries](./0x18-dynamic_libraries)
 
@@ -29,11 +29,11 @@
 * Singly linked lists >> [0x12-singly_linked_lists](./0x12-singly_linked_lists)
 * More singly linked lists >> [0x13-more_singly_linked_lists](./0x13-more_singly_linked_lists)
 * Doubly linked lists >> [0x17-doubly_linked_lists](./0x17-doubly_linked_lists)
-* Project: [Monty (Stacks, Queues - LIFO, FIFO)](https://github.com/leroysb/monty)
+* Project: [Monty (Stacks, Queues - LIFO, FIFO)](https://github.com/leroysb/monty){:target="_blank"}
 
 ## Linux and Unix system programming
 * File I/O >> [0x15-file_io](./0x15-file_io)
-* Project: [Create a simple shell](https://github.com/leroysb/simple_shell)
+* Project: [Create a simple shell](https://github.com/leroysb/simple_shell){:target="_blank"}
 
 ## More Info
 ### Compiling Syntax
