@@ -30,6 +30,7 @@
 * More singly linked lists >> [0x13-more_singly_linked_lists](./0x13-more_singly_linked_lists)
 * Doubly linked lists >> [0x17-doubly_linked_lists](./0x17-doubly_linked_lists)
 * Project: [Monty (Stacks, Queues - LIFO, FIFO)](https://github.com/leroysb/monty)
+* Hash tables >> [0x1A-hash_tables](./0x1A-hash_tables)
 
 ## Linux and Unix system programming
 * File I/O >> [0x15-file_io](./0x15-file_io)
