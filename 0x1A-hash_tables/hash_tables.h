@@ -95,7 +95,8 @@ void shash_table_delete(shash_table_t *ht);
 
 int replace_value_s(shash_node_t **ht, const char *key, const char *value);
 int check_key_s(shash_node_t *ht, const char *key);
-shash_node_t *add_node_s(shash_node_t **head, const char *key, const char *value);
+shash_node_t *add_node_s(
+	shash_node_t **head, const char *key, const char *value);
 void insert_sort(shash_node_t *node, shash_table_t *ht);
 void free_list_s(shash_node_t *head);
 
