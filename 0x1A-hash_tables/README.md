@@ -68,3 +68,64 @@ A function that deletes a hash table.
 * Prototype: `void hash_table_delete(hash_table_t *ht);` where `ht` is the hash table
 
 File: [6-hash_table_delete.c](./6-hash_table_delete.c)
+
+### 7. $ht['Betty'] = 'Cool'
+In [PHP](https://www.php.net/manual/en/intro-whatis.php), hash tables are **ordered**. Wait... WAT? How is this even possible?
+
+![](https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2020/9/5ebbea5dea5a575b38243d597604000715982925.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20230113%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230113T122630Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=ae3d454269059cbf7e75da835609c75f74282e35dd0c8c1e0400929a091db1fe)
+
+Before you continue, please take a moment to think about it: how you would implement it if you were asked to during an interview or a job. What data structures would you use? How would it work?
+
+For this task, please:
+* Read [PHP Internals Book: HashTable](https://www.phpinternalsbook.com/php5/hashtables/basic_structure.html)
+* Use the same hash function
+* Use these data structures:
+
+```
+/**
+ * struct shash_node_s - Node of a sorted hash table
+ *
+ * @key: The key, string
+ * The key is unique in the HashTable
+ * @value: The value corresponding to a key
+ * @next: A pointer to the next node of the List
+ * @sprev: A pointer to the previous element of the sorted linked list
+ * @snext: A pointer to the next element of the sorted linked list
+ */
+typedef struct shash_node_s
+{
+     char *key;
+     char *value;
+     struct shash_node_s *next;
+     struct shash_node_s *sprev;
+     struct shash_node_s *snext;
+} shash_node_t;
+
+/**
+ * struct shash_table_s - Sorted hash table data structure
+ *
+ * @size: The size of the array
+ * @array: An array of size @size
+ * Each cell of this array is a pointer to the first node of a linked list,
+ * because we want our HashTable to use a Chaining collision handling
+ * @shead: A pointer to the first element of the sorted linked list
+ * @stail: A pointer to the last element of the sorted linked list
+ */
+typedef struct shash_table_s
+{
+     unsigned long int size;
+     shash_node_t **array;
+     shash_node_t *shead;
+     shash_node_t *stail;
+} shash_table_t;
+```
+
+Rewrite the previous functions using these data structures:
+* `shash_table_t *shash_table_create(unsigned long int size);`
+* `int shash_table_set(shash_table_t *ht, const char *key, const char *value);` -> The key/value pair should be inserted in the sorted list at the right place. Note that here we do not want to do exactly like PHP: we want to create a sorted linked list, by key (sorted on ASCII value), that we can print by traversing it. See example.
+* `char *shash_table_get(const shash_table_t *ht, const char *key);`
+* `void shash_table_print(const shash_table_t *ht);`-> Should print the hash table using the sorted linked list
+* `void shash_table_print_rev(const shash_table_t *ht);` -> Should print the hash tables key/value pairs in reverse order using the sorted linked list
+* `void shash_table_delete(shash_table_t *ht);`
+
+![php](https://s3.amazonaws.com/intranet-projects-files/holbertonschool-low_level_programming/253/php.png)
