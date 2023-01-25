@@ -1,7 +1,7 @@
 # C (programming language)
 ## Resources
-1. C Programming Languange (ANSI C 2nd Edition) by Brian Kernighan & Dennis Ritchie
-2. Programming in C (4th Edition) by Stephen Kochan
+1. [C Programming Languange (ANSI C 2nd Edition) by Brian Kernighan & Dennis Ritchie](https://www.academia.edu/43687770/C_Programming_Language_2nd_Edition_by_Brian_W_Kernighan_Dennis_M_Ritchie)
+2. [Programming in C (4th Edition) by Stephen Kochan](https://www.oreilly.com/library/view/programming-in-c/9780132781206/)
 
 ## Fundamentals
 * Types, Variables, Functions -> [0x00-hello_world](./0x00-hello_world)
@@ -31,6 +31,7 @@
 * Doubly linked lists -> [0x17-doubly_linked_lists](./0x17-doubly_linked_lists)
 * Project: [Monty (Stacks, Queues - LIFO, FIFO)](https://github.com/leroysb/monty)
 * Hash tables -> [0x1A-hash_tables](./0x1A-hash_tables)
+* Project: [Sorting algorithms & Big O](https://github.com/leroysb/sorting_algorithms.git)
 
 ## Linux and Unix system programming
 * File I/O -> [0x15-file_io](./0x15-file_io)
