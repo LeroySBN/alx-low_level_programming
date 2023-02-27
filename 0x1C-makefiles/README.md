@@ -11,7 +11,7 @@ Fist Makefile.
 Requirements:
 * name of the executable: `school`
 * rules: `all`
-  `* The `all` rule builds your executable
+  * The `all` rule builds your executable
 * variables: none
 
 File: [0-Makefile](./0-Makefile)
