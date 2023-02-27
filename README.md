@@ -33,6 +33,9 @@
 * Hash tables -> [0x1A-hash_tables](./0x1A-hash_tables)
 * Project: [Sorting algorithms & Big O](https://github.com/leroysb/sorting_algorithms.git)
 
+## More
+* Makefiles -> [0x1C-makefiles](./0x1C-makefiles)
+
 ## Linux and Unix system programming
 * File I/O -> [0x15-file_io](./0x15-file_io)
 * Project: [Create a simple shell](https://github.com/leroysb/simple_shell)
