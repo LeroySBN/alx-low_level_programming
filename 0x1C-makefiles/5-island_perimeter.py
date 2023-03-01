@@ -1,8 +1,9 @@
 #!/usr/bin/python3
 """Module 5-island_perimeter"""
 
+
 def island_perimeter(grid):
-    """Computes the perimeter of an island """
+    """Computes the perimeter of an island"""
     perimeter = 0
     for y, row in enumerate(grid):
         for x, item in enumerate(row):
