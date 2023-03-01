@@ -1,7 +1,22 @@
 CC = gcc
 SRC = main.c school.c
-OBJ = $(SRC:.c=.o)
+OBJ = $(patsubst %.c, %.o, $(SRC))
 NAME = school
 
+TMPFILES = *~
+
+RM = rm -f
+
 all: $(OBJ)
-	$(CC) $(SRC) $(OBJ) -o $(NAME)
+	$(CC) $^ -o $(NAME)
+
+obj: $(SRC)
+	$(CC) $^
+
+clean:
+	$(RM) $(NAME) $(TMPFILES)
+
+oclean:
+	$(RM) $(OBJ)
+
+fclean: clean oclean
