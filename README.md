@@ -33,6 +33,7 @@
 * Hash tables -> [0x1A-hash_tables](./0x1A-hash_tables)
 * Project: [Sorting algorithms & Big O](https://github.com/leroysb/sorting_algorithms.git)
 * Project: [Binary trees](https://github.com/leroysb/binary_trees.git)
+* Search Algorithms -> [0x1E-search_algorithms](./0x1E-search_algorithms)
 
 ## More
 * Makefiles -> [0x1C-makefiles](./0x1C-makefiles)
